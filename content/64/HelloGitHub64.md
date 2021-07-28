@@ -159,7 +159,7 @@ sjcl.decrypt("password", "encrypted-data") //解密数据
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/img/50projects50days.png' style="max-width:80%; max-height=80%;"></img></p>
 
-19、[gogocode](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/thx/gogocode)：简化 JavaScript 抽象语法树（AST）处理的工具。借鉴了类似 jQuery 的预发和字符串构建 AST 的思想，大大简化了学习成本、降低了开发复杂度，官方团队在此基础上还开发出了 [Vue2 转 Vue3 的插件](https://gogocode.io/zh/docs/vue/vue2-to-vue3)
+19、[gogocode](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/thx/gogocode)：简化 JavaScript 抽象语法树（AST）处理的工具。借鉴了类似 jQuery 的语法和字符串构建 AST 的思想，大大简化了学习成本、降低了开发复杂度，官方团队在此基础上还开发出了 [Vue2 转 Vue3 的插件](https://gogocode.io/zh/docs/vue/vue2-to-vue3)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/img/gogocode.png' style="max-width:80%; max-height=80%;"></img></p>
 
